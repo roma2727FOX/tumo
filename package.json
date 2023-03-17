@@ -1,0 +1,23 @@
+{
+  "name": "tumo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "studio.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roma2727FOX/tumo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roma2727FOX/tumo/issues"
+  },
+  "homepage": "https://github.com/roma2727FOX/tumo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

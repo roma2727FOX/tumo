@@ -1,0 +1,7 @@
+{"score":-17,"countOfGrenn":3,"countOfBlack":1,"countOfBlue":0,"countOfClick":4}
+{"score":-6,"countOfGrenn":4,"countOfBlack":1,"countOfBlue":1,"countOfClick":7}
+{"score":-6,"countOfGrenn":4,"countOfBlack":1,"countOfBlue":1,"countOfClick":7}
+{"score":-6,"countOfGrenn":4,"countOfBlack":1,"countOfBlue":1,"countOfClick":7}
+{"score":-6,"countOfGrenn":4,"countOfBlack":1,"countOfBlue":1,"countOfClick":7}
+{"score":-6,"countOfGrenn":4,"countOfBlack":1,"countOfBlue":1,"countOfClick":7}
+{"score":-6,"countOfGrenn":4,"countOfBlack":1,"countOfBlue":1,"countOfClick":7}
